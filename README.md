@@ -28,3 +28,5 @@ This is supplied by the python scripts.
 * **groundBS_solvebvp14_MRdiagramStability**: stability based on the M-R diagram
 
 ### Shooting Method
+* **groundBS_shooting01_completeProfile**: core solver that numerically solves the EKG equations with Python's built-in solve_bvp and generates a full profile
+* **groundBS_shooting02_massSigmacCurve**: total mass-central field relationship for a given self-interaction $\Lambda$
